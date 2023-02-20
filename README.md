@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tak114s&theme=dracula)
-
+<a href="https://github.com/tak114s">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tak114s&theme=dracula" />
+</a>
 
 
 <p>
